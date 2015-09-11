@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class CadastrarLembrete
+ * Servlet implementation class CadastrarLembrete.
  */
 @WebServlet("/CadastrarLembrete")
 public class CadastrarLembrete extends HttpServlet {
